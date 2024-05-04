@@ -1,4 +1,4 @@
-# Robots.txt file for PizzaPlace.com
+# Robots.txt file for pizzashop.me
 
 # Allow all crawlers to access all parts of the site
 User-agent: *
@@ -18,4 +18,4 @@ Disallow: /specials.html
 
 # Sitemap
 # This line is optional and specifies the location of your XML sitemap.
-# Sitemap: https://www.pizzaplace.com/sitemap.xml
+# Sitemap: https://pizzashop.me//sitemap.xml
