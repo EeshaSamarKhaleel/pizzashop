@@ -1,0 +1,21 @@
+# Robots.txt file for PizzaPlace.com
+
+# Allow all crawlers to access all parts of the site
+User-agent: *
+Disallow:
+
+# Disallow specific directories
+Disallow: /admin/
+Disallow: /private/
+
+# Disallow specific pages
+Disallow: /checkout.html
+Disallow: /specials.html
+
+# Crawl delay
+# This line is optional and specifies a delay in seconds that crawlers should wait between requests to your server.
+# Crawl-delay: 10
+
+# Sitemap
+# This line is optional and specifies the location of your XML sitemap.
+# Sitemap: https://www.pizzaplace.com/sitemap.xml
